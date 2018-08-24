@@ -1,0 +1,8 @@
+V3 3
+FL /home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd 2018/08/24.17:02:29 P.20131013
+EN work/FULL_ADDER_4BITS 0 \
+      FL /home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FULL_ADDER_4BITS/Behavioral 0 \
+      FL /home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd \
+      EN work/FULL_ADDER_4BITS 0

@@ -1,0 +1,9 @@
+NET "Z<0>"        LOC = "R20"  | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "Z<1>"        LOC = "T19"  | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+
+NET "A<0>"         LOC = "V8"   | IOSTANDARD = LVCMOS33 ;
+NET "A<1>"         LOC = "U10"  | IOSTANDARD = LVCMOS33 ;
+NET "B<0>"         LOC = "U8"   | IOSTANDARD = LVCMOS33 ;
+NET "B<1>"         LOC = "T9"   | IOSTANDARD = LVCMOS33 ;
+
+NET "S"    LOC = "T15"  | IOSTANDARD = LVCMOS33 | PULLDOWN ;
