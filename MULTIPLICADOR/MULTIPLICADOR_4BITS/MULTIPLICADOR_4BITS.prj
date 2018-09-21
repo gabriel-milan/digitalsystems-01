@@ -1,0 +1,3 @@
+vhdl work "../../FULL_ADDER_4BITS/ADDER_1BIT.vhd"
+vhdl work "../../FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd"
+vhdl work "MULTIPLICADOR_4BITS.vhd"

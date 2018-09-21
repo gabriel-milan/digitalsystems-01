@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.xst" -ofn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.syr" 
+xst -intstyle ise -ifn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.xst" -ofn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.syr" 
+xst -intstyle ise -ifn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.xst" -ofn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.syr" 
+xst -intstyle ise -ifn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.xst" -ofn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.syr" 
+xst -intstyle ise -ifn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.xst" -ofn "/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/Or_AulaPratica/OR_4BITS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50a-tq144-5 OR_4BITS.ngc OR_4BITS.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o OR_4BITS_map.ncd OR_4BITS.ngd OR_4BITS.pcf 

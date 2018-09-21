@@ -1,0 +1,22 @@
+V3 11
+FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/FULL_ADDER_4BITS/ADDER_1BIT.vhd 2018/09/21.16:16:20 P.20131013
+EN work/ADDER_1BIT 1537562070 \
+      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/FULL_ADDER_4BITS/ADDER_1BIT.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ADDER_1BIT/Behavioral 1537562071 \
+      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/FULL_ADDER_4BITS/ADDER_1BIT.vhd \
+      EN work/ADDER_1BIT 1537562070
+FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd 2018/09/21.17:31:20 P.20131013
+EN work/FULL_ADDER_4BITS 1537562072 \
+      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FULL_ADDER_4BITS/Behavioral 1537562073 \
+      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/FULL_ADDER_4BITS/FULL_ADDER_4BITS.vhd \
+      EN work/FULL_ADDER_4BITS 1537562072 CP ADDER_1BIT
+FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/MULTIPLICADOR/MULTIPLICADOR_4BITS/MULTIPLICADOR_4BITS.vhd 2018/09/21.17:34:24 P.20131013
+EN work/MULTIPLICADOR_4BITS 1537562074 \
+      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/MULTIPLICADOR/MULTIPLICADOR_4BITS/MULTIPLICADOR_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MULTIPLICADOR_4BITS/Behavioral 1537562075 \
+      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/MULTIPLICADOR/MULTIPLICADOR_4BITS/MULTIPLICADOR_4BITS.vhd \
+      EN work/MULTIPLICADOR_4BITS 1537562074 CP FULL_ADDER_4BITS
