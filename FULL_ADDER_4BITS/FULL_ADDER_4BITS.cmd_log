@@ -1,3 +1,0 @@
-xst -intstyle ise -ifn "/home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.xst" -ofn "/home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.syr" 
-xst -intstyle ise -ifn "/home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.xst" -ofn "/home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.syr" 
-xst -intstyle ise -ifn "/home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.xst" -ofn "/home/sd/Desktop/Trabalho_2_SD/ULA/FULL_ADDER_4BITS/FULL_ADDER_4BITS.syr" 

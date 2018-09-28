@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-09-21T17:15:09</DateModified>
+  <DateModified>2018-09-28T16:30:35</DateModified>
   <ModuleName>MULTIPLICADOR_4BITS</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/MULTIPLICADOR/MULTIPLICADOR_4BITS/iseconfig/MULTIPLICADOR_4BITS.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/MULTIPLICADOR/MULTIPLICADOR_4BITS</ImplementationReportsDirectory>
+  <SavedFilePath>/home/gabriel-milan/GIT_REPOS/digitalsystems-01/MULTIPLICADOR/MULTIPLICADOR_4BITS/iseconfig/MULTIPLICADOR_4BITS.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/gabriel-milan/GIT_REPOS/digitalsystems-01/MULTIPLICADOR/MULTIPLICADOR_4BITS/</ImplementationReportsDirectory>
   <DateInitialized>2018-09-21T17:15:09</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
