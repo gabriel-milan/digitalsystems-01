@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/gabriel-milan/GIT_REPOS/digitalsystems-01/FULL_ADDER_4BITS/Simulation_isim_beh.exe" -prj "/home/gabriel-milan/GIT_REPOS/digitalsystems-01/FULL_ADDER_4BITS/Simulation_beh.prj" "work.Simulation" 
