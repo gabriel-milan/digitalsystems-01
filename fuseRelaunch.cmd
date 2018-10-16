@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/gabriel-milan/GIT_REPOS/digitalsystems-01/ULA_Gabriel/ULA_Gabriel/Simulation_isim_beh.exe" -prj "/home/gabriel-milan/GIT_REPOS/digitalsystems-01/ULA_Gabriel/ULA_Gabriel/Simulation_beh.prj" "work.Simulation" 

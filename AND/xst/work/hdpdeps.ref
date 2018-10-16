@@ -1,8 +1,0 @@
-V3 3
-FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/coponentAND/AND_4BIT.vhd 2018/09/21.15:56:09 P.20131013
-EN work/AND_4BIT 1537556176 \
-      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/coponentAND/AND_4BIT.vhd \
-      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
-AR work/AND_4BIT/Behavioral 1537556177 \
-      FL /home/patrick.braz/Documents/Materias/SistemasDigitais/AulaPratica/AND/coponentAND/AND_4BIT.vhd \
-      EN work/AND_4BIT 1537556176

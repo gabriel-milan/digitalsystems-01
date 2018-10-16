@@ -1,3 +1,0 @@
-vhdl isim_temp "ADDER_1BIT.vhd"
-vhdl isim_temp "MULTIPLICADOR_4BITS.vhd"
-vhdl isim_temp "simulator.vhd"
