@@ -9,6 +9,7 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/COMPARADOR_4BITS - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|ULA_Gabriel|ULA_Gabriel|COMPARADOR_4BITS.vhd</ClosedNode>
          <ClosedNode>/FULL_ADDER_4BITS - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|ULA_Gabriel|ULA_Gabriel|FULL_ADDER_4BITS.vhd</ClosedNode>
+         <ClosedNode>/INTERFACE_USUARIO - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|INTERFACE_USUARIO.vhd/U0 - ULA - Behavioral</ClosedNode>
          <ClosedNode>/INTERFACE_USUARIO - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|ULA_Gabriel|ULA_Gabriel|INTERFACE_USUARIO.vhd/U0 - ULA - Behavioral</ClosedNode>
          <ClosedNode>/MULTIPLICADOR_4BITS - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|ULA_Gabriel|ULA_Gabriel|MULTIPLICADOR_4BITS.vhd</ClosedNode>
          <ClosedNode>/ULA - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|ULA_Gabriel|ULA_Gabriel|ULA.vhd</ClosedNode>
@@ -21,13 +22,13 @@
          <ClosedNode>/ULA - Behavioral |home|gabriel-milan|GIT_REPOS|digitalsystems-01|ULA_Gabriel|ULA_Gabriel|ULA.vhd/U6 - FULL_ADDER_4BITS - Behavioral</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>INTERFACE_USUARIO - Behavioral (/home/gabriel-milan/GIT_REPOS/digitalsystems-01/INTERFACE_USUARIO.vhd)</SelectedItem>
+         <SelectedItem>xc3s700an-4fgg484</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000254000000020000000000000000000000000200000064ffffffff000000810000000300000002000002540000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001d8000000020000000000000000000000000200000064ffffffff000000810000000300000002000001d80000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>INTERFACE_USUARIO - Behavioral (/home/gabriel-milan/GIT_REPOS/digitalsystems-01/INTERFACE_USUARIO.vhd)</CurrentItem>
+      <CurrentItem>xc3s700an-4fgg484</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -35,13 +36,13 @@
          <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -144,12 +145,12 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f4000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f40000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
 </Project>

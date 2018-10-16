@@ -5,33 +5,19 @@ NET "clock"			LOC = "E12"	|	IOSTANDARD = LVCMOS33;
 NET "ledA"        LOC = "W21"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
 NET "ledB"        LOC = "Y22"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
 NET "ledOp"       LOC = "V20"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
-NET "output(0)"	LOC = "V19"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
-NET "output(1)"	LOC = "V20"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
-NET "output(2)"	LOC = "Y22"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
-NET "output(3)"	LOC = "W21"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "output(0)"	LOC = "R20"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "output(1)"	LOC = "T19"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "output(2)"	LOC = "U20"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
+NET "output(3)"	LOC = "U19"	|	IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = SLOW ;
 
-##############################################################################
-# Directional Push-Buttons (BTN)
-##############################################################################
+# Input buttons
+NET "buttonA"		LOC = "U15"	|	IOSTANDARD = LVCMOS33 | PULLDOWN ;
+NET "buttonB"		LOC = "T16"	|	IOSTANDARD = LVCMOS33 | PULLDOWN ;
+NET "buttonOp"		LOC = "T15"	|	IOSTANDARD = LVCMOS33 | PULLDOWN ;
+NET "reset"			LOC = "T14"	|	IOSTANDARD = LVCMOS33 | PULLDOWN ;
 
-NET "rst"      LOC = "T16"  | IOSTANDARD = LVCMOS33 | PULLDOWN ;
-#NET "BTN_NORTH"     LOC = "T14"  | IOSTANDARD = LVCMOS33 | PULLDOWN ;
-NET "botaoEntradaDoNumeroY"     LOC = "T15"  | IOSTANDARD = LVCMOS33 | PULLDOWN ;
-NET "botaoEntradaDoNumeroX"      LOC = "U15"  | IOSTANDARD = LVCMOS33 | PULLDOWN ;
-
-##############################################################################
-# Rotary Knob (ROT)
-##############################################################################
-
-#NET "ROT_CENTER"    LOC = "R13"  | IOSTANDARD = LVCMOS33 | PULLDOWN ;
-#NET "ROT_A"         LOC = "T13"  | IOSTANDARD = LVCMOS33 | PULLUP ;
-#NET "ROT_B"         LOC = "R14"  | IOSTANDARD = LVCMOS33 | PULLUP ;
-
-##############################################################################
-# Mechanical Switches (SW)
-##############################################################################
-
-NET "entradaUla(0)"         LOC = "V8"   | IOSTANDARD = LVCMOS33 ;
-NET "entradaUla(1)"         LOC = "U10"  | IOSTANDARD = LVCMOS33 ;
-NET "entradaUla(2)"         LOC = "U8"   | IOSTANDARD = LVCMOS33 ;
-NET "entradaUla(3)"         LOC = "T9"   | IOSTANDARD = LVCMOS33 ;
+# Input switches
+NET "input(0)"		LOC = "V8"	|	IOSTANDARD = LVCMOS33 ;
+NET "input(1)"		LOC = "U10"	|	IOSTANDARD = LVCMOS33 ;
+NET "input(2)"		LOC = "U8"	|	IOSTANDARD = LVCMOS33 ;
+NET "input(3)"		LOC = "T9"	|	IOSTANDARD = LVCMOS33 ;
